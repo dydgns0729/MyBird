@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Pipe
   - Point
+  - Ground
+  - Sky
+  - Score
   layers:
   - Default
   - TransparentFX
